@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "1",
+      "description": "A serene forest path with sunlight filtering through the trees.",
+      "imageUrl": "https://picsum.photos/seed/photopoet/1200/800",
+      "imageHint": "forest path"
+    }
+  ]
+}
